@@ -1,0 +1,66 @@
+{
+    "name": "Warren#6",
+    "symbol": "PR",
+    "description": "Collection 6/11 generating one on one purraria assets",
+    "seller_fee_basis_points": 500,
+    "external_url": "https://purrariagame.com/",
+    "edition": 6,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "1/1"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Stripey"
+        },
+        {
+            "trait_type": "Outfit",
+            "value": "Scarlet Samurai"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "Eastern Edge"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Crimson Samurai Helm"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Beady"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Small Fang"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Special",
+            "value": "Honorary"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "creators": [
+            {
+                "address": "2vypN5TJppGwT4rRQW3Q6g8ezFN958XwaCM9AwVdyMKJ",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/masnasri-a/images/main/Combined-Warren.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "image": "https://raw.githubusercontent.com/masnasri-a/images/main/Combined-Warren.png",
+    "collection": {
+        "name": "Purraria",
+        "family": "Purraria"
+    }
+}

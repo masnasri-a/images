@@ -1,0 +1,66 @@
+{
+    "name": "Greybone#1",
+    "symbol": "PR",
+    "description": "Collection 1/11 generating one on one purraria assets",
+    "seller_fee_basis_points": 500,
+    "external_url": "https://purrariagame.com/",
+    "edition": 1,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "1/1"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Silverie"
+        },
+        {
+            "trait_type": "Outfit",
+            "value": "Cirebon Jacket"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "GG Slayer"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Depok Headband"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "BSD Glasses"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grinny"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Blushy"
+        },
+        {
+            "trait_type": "Special",
+            "value": "Honorary"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "creators": [
+            {
+                "address": "2vypN5TJppGwT4rRQW3Q6g8ezFN958XwaCM9AwVdyMKJ",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/masnasri-a/images/main/Combined-Greybone.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "image": "https://raw.githubusercontent.com/masnasri-a/images/main/Combined-Greybone.png",
+    "collection": {
+        "name": "Purraria",
+        "family": "Purraria"
+    }
+}

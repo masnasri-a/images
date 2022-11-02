@@ -1,0 +1,66 @@
+{
+    "name": "Thunderkings#4",
+    "symbol": "PR",
+    "description": "Collection 4/11 generating one on one purraria assets",
+    "seller_fee_basis_points": 500,
+    "external_url": "https://purrariagame.com/",
+    "edition": 4,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "1/1"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Shady"
+        },
+        {
+            "trait_type": "Outfit",
+            "value": "Orient"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "Wooden Sword"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Warrior Helm"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scouter"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Flowery"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Plainy"
+        },
+        {
+            "trait_type": "Special",
+            "value": "Honorary"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "creators": [
+            {
+                "address": "2vypN5TJppGwT4rRQW3Q6g8ezFN958XwaCM9AwVdyMKJ",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/masnasri-a/images/main/Combined-Thunderking.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "image": "https://raw.githubusercontent.com/masnasri-a/images/main/Combined-Thunderking.png",
+    "collection": {
+        "name": "Purraria",
+        "family": "Purraria"
+    }
+}
